@@ -12,6 +12,7 @@
 		1E37100A2333FB1100E444D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3710082333FB1100E444D6 /* Main.storyboard */; };
 		1E37100C2333FB1300E444D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E37100B2333FB1300E444D6 /* Assets.xcassets */; };
 		1E37100F2333FB1300E444D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E37100D2333FB1300E444D6 /* LaunchScreen.storyboard */; };
+		1E3710172333FB8000E444D6 /* Onboarding.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3710162333FB8000E444D6 /* Onboarding.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1E37100B2333FB1300E444D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E37100E2333FB1300E444D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E3710102333FB1300E444D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E3710162333FB8000E444D6 /* Onboarding.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Onboarding.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1E3710042333FB1100E444D6 /* AppDelegate.swift */,
 				1E3710062333FB1100E444D6 /* ViewController.swift */,
+				1E3710162333FB8000E444D6 /* Onboarding.storyboard */,
 				1E3710082333FB1100E444D6 /* Main.storyboard */,
 				1E37100B2333FB1300E444D6 /* Assets.xcassets */,
 				1E37100D2333FB1300E444D6 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				1E37100F2333FB1300E444D6 /* LaunchScreen.storyboard in Resources */,
 				1E37100C2333FB1300E444D6 /* Assets.xcassets in Resources */,
+				1E3710172333FB8000E444D6 /* Onboarding.storyboard in Resources */,
 				1E37100A2333FB1100E444D6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
